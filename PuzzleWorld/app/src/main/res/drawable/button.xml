@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="rectangle">
+
+    <!-- The color of the fill -->
+    <solid android:color="#FFFFFF" />
+    <!-- The four corners of the set button are arcs -->
+    <!-- android:radius -->
+    <corners android:radius="5dip" />
+
+    <!-- padding：The distance between the text inside the Button and the Button border -->
+    <!--<padding-->
+        <!--android:left="10dp"-->
+        <!--android:top="10dp"-->
+        <!--android:right="10dp"-->
+        <!--android:bottom="10dp"-->
+        <!--/>-->
+</shape>
